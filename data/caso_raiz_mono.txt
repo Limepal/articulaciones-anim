@@ -1,0 +1,15 @@
+# Caso borde: "corbatin" (dos triangulos que comparten el vertice 0).
+# La raiz 0 tiene DOS hijos en el arbol DFS -> SI es articulacion.
+5 6
+0 1
+1 2
+2 0
+0 3
+3 4
+4 0
+pos
+3.0 3.2
+0.6 5.2
+0.6 1.2
+5.4 5.2
+5.4 1.2

@@ -1,0 +1,13 @@
+# Caso borde: grafo desconexo con un vertice aislado.
+# Hay tres DFS (tres raices). Solo 1 es articulacion; el aislado 5 no lo es.
+6 3
+0 1
+1 2
+3 4
+pos
+0.4 4.8
+2.2 3.4
+4.0 4.8
+0.8 1.0
+3.6 1.0
+6.0 3.0
