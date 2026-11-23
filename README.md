@@ -5,7 +5,7 @@ Video educativo que explica y anima el algoritmo de **Hopcroft–Tarjan** para e
 todos los puntos de articulación (vértices de corte) de un grafo no dirigido en **O(V + E)**.
 
 **Integrantes:** Gabriel Díaz · Brisseth Surquislla
-**Video:** `out/articulaciones.mp4` · enlace: _(pegar aquí el enlace de YouTube no listado / Drive)_
+**Video:** `out/articulaciones.mp4` · enlace: https://www.youtube.com/watch?v=t9iLdYxYZsc
 
 ## Cómo funciona (animación real, no simulada)
 
